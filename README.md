@@ -1,2 +1,2 @@
-# DigutalResumeProject
+# DigitalResumeProject
 My own digital resume
